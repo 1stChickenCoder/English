@@ -54,3 +54,67 @@ X. `I was wanting to have a cat.`
 `used to V -> didn't use to V/used not to V`
 
 ### Bài tập:
+
+**Bài đọc 1:**
+
+Well, just last week, I had to leave my hometown and moved to a flat in a busy town
+that is pretty far away from where I used to live.
+The reason for this whole moving thing was that my old place wasn't safe anymore.
+Years ago, nobody in my village `would lock` their front doors. We `used to feel` safe in those
+days. Last month, I `met` my neighbor in the street. When I `was walking` home from 
+the shops, she `told` me some bad news. Thieves `were breaking` into people's hose while 
+they`were sitting` in their back gardens.
+I `realised ` that I `didn't want` to live there anymore. So last week, I `moved`
+to this little flat. I `am not used` to being in the town yet, but people are more
+friendly than I `thought` they might be, and I feel much happier and safer. My new
+neighbors are also funny and kind, and some of them also come from rusal areas like me.
+Therefore, I `managed` to get along with my new companions and the town life seems to be
+less challenging. So, I think moving to my current place was a good idea and I will
+definitely miss the town if I have to move again.
+
+
+
+
+### Thì quá khứ hoàn thành (Past perfect)
+
+**1. Định nghĩa và cấu trúc.**
+
+- Diễn tà hành động đã xảy ra trước hành động trong quá khứ
+
+- Quá khứ hoàn thành trước, quá khứ đơn sau
+
+```
+S + had + P2
+S + had + not + P2
+Had + S + P2?
+```
+
+**2. Cách dùng.**
+
+- Hành động ` hoàn tất trước ` một hành động khác trong quá khứ. Hành động diễn ra sau chia ở 
+quá khứ đơn
+
+`Last week, I visited my hometown. It had changed a lot`
+
+- Hành động ` hoàn thành trước ` mốc thời gian trong quá khứ.
+
+`Before 2025, I had studied 2 courses in Prep`
+
+**3. Dấu hiệu nhận biết.**
+
+- Dùng với các giới từ: `until then`, `prior to that time`, `as soon as`, `by`,...
+
+- Dùng với các liên từ: `before`, `after`, `by the time + S + V`, `by the end of + time`,...
+
+`By the time I met you, I had worked in that company for 2 years`
+
+**4. Ứng dụng vào Ielts.**
+
+Cho đề bài sau: `Describe an important decision you have made.`
+
+<p> I'll talk about a decision I took back in 2017. It was when I `decided` to move to Australia.
+So, in 2017, I `was living` in Chile, where I `had lived` all my life, but I was a little depressed and kind 
+of sick of my everyday routine. I had a good job but I found it really boring. A friend of mine `was living` in 
+Australia at that time and he suggested that I join him. Well, I `did` some research and just `bought`
+a ticket.</p>
+
